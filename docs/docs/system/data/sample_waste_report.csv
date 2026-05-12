@@ -1,0 +1,5 @@
+location,waste_type,urgency_level,date,reported_by
+Azare,plastic,high,2026-05-01,community_member
+Abuja,organic,medium,2026-05-02,youth_volunteer
+Lagos,metal,high,2026-05-03,health_worker
+Kano,plastic,medium,2026-05-04,community_member
